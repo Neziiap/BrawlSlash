@@ -1,4 +1,4 @@
-#BrawlSlash
+# BrawlSlash
 Brawler 3D made with Game Programmer and Game Designer students using Unreal Engine | 4 Months
 
 ![#Isart](Media/ISART-Digital.png)
@@ -17,15 +17,15 @@ Here are the students who worked on this project
 | DEPREZ Nicolas | Game Programmer
 | TODOROV Anatole | Game Programmer
 
-#Screenshots
+# Screenshots
 ![#Screen1](Media/Screenshot_3.png)
 ![#Screen2](Media/Screenshot_5.png)
 ![#Screen3](Media/Screenshot_6.png)
 
-#Techs
+# Techs
 
 The project has been developed under Unreal Engine 4.24
 
-#How to Build
+# How to Build
 
 Launch the [.uproject](BrawlSlash.uproject) then build the solution.
